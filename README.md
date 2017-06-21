@@ -8,4 +8,5 @@ Had to read the instructions and the project rubric very carefully and several t
 The following are the versions of Google VR SDK and Unity I used to make this project:
 
 GVR_SDK_VERSION: 1.50.0
+
 UNITY VERSION: 5.6.1p2 Personal
