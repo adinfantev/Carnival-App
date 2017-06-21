@@ -1,4 +1,7 @@
 # Carnival-App
+
+Project: Udacity Carnival
+
 My first repository on github for my first project in The VR Nanodegree Program
 
 So happy to have started the VR Nanodegree Program. Learning with lots of enthusiasm. Thrilled by the challenges this course offers to me.
