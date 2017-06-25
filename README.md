@@ -8,7 +8,8 @@ So happy to have started the VR Nanodegree Program. Learning with lots of enthus
 
 Had to read the instructions and the project rubric very carefully and several times to get everythnig done for this project. Learned how to navigate in unity, modify an existing project and how to send the app to my android phone.
 
-Added a big entrance/exit gate and some trees just to practice a bit and so that the scene didn´t feel so empty.
+Added a big entrance/exit gate and some trees using assets i downloaded from the asset store (Standard Assets
+Unity Essentials/Asset Packs/Unity Technologies) just to practice a bit and so that the scene didn´t feel so empty.
 
 The scene is located at: Assets/UdacityVR/Scenes/Project1
 
