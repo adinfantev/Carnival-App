@@ -10,6 +10,8 @@ Had to read the instructions and the project rubric very carefully and several t
 
 Added a big entrance/exit gate and some trees just to practice a bit and so that the scene didn´t feel so empty.
 
+The scene is located at: Assets/UdacityVR/Scenes/Project1
+
 The following are the versions of Google VR SDK and Unity I used to make this project:
 
 GVR_SDK_VERSION: 1.50.0
